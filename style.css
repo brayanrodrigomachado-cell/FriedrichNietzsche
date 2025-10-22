@@ -1,0 +1,24 @@
+body{
+    color:rgb(255, 217, 0);
+    background:rgb(255, 0, 0);
+    margin: 0px;
+    font-family: "Creepster", sans-serif;
+}
+header{
+    border-bottom: solid 5px black;
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(255, 217, 0)
+ }
+
+ section{ 
+    background: rgb(170, 3, 3);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+ }
+ 
+     .chamado-texto{ 
+ margin-right: 5%;
+ }
